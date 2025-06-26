@@ -5,4 +5,9 @@ Mon objectif est de montrer ma maîtrise des méthodologies et outils nécessair
 
 Je suis convaincue que ce portfolio reflète ma capacité à relever les défis techniques, organisationnels et stratégiques liés à la gestion et à l’exploitation de données à grande échelle, ainsi que ma motivation sincère à intégrer vos équipes et contribuer à vos ambitions d’innovation et de performance.
 
+# Consulter mon portfolio:
+
+[**Cliquez ici pour ouvrir le portfolio (PDF)**](https://github.com/RoudautQ/Aeroworld-/raw/main/Roudaut_Quitterie_Portfolio_062025.pdf)
+
+
 Quitterie ROUDAUT
